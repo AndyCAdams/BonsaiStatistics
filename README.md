@@ -14,7 +14,7 @@ Status
 
 Hardware
 Board: Wemos/LOLIN S2 Mini v1.0.0 (ESP32-S2FN4R2 — single-core, WiFi only, native USB, 4MB flash / 2MB PSRAM in-package)
-Sensor: Capacitive soil moisture sensor v1.2 (not yet wired in)
-
+Sensor: Capacitive soil moisture sensor v1.2
+Server: Raspberry Pi5 16gb ram running docker influxDB
 
 
