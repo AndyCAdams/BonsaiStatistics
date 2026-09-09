@@ -8,6 +8,8 @@ Status
 -wifi connection established
 -basic blink when wifi disconnected so i can quickly/easily rule out/in connectivity issues
 -http connection with influxDB server
+-sensor connected
+-sensor calibrated and normalized to 0-100
 
 
 Hardware
